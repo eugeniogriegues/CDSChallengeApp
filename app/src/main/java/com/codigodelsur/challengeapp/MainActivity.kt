@@ -9,7 +9,6 @@ import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.codigodelsur.challengeapp.data.AppDatabase
 import com.codigodelsur.challengeapp.ui.screen.TaskListScreen
 import com.codigodelsur.challengeapp.ui.theme.ChallengeAppTheme
 
